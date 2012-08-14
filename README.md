@@ -18,10 +18,12 @@ If we have two zipped files, it will show what the differences are in the conten
 Usage
 ------------
 You can also run it from the command line, just by giving the path to the jarcomp.jar file:
-java -jar jarcomp_01.jar
+
+	java -jar jcompare.jar
 
 Or you can also give it the two files to compare straight away:
-java -jar jarcomp_01.jar file1.jar file2.jar
+
+	java -jar jcompare.jar file1.jar file2.jar
 
 
 Reference
